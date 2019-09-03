@@ -107,5 +107,17 @@
       "Age rating": "16",
       "Image": "https://lh3.googleusercontent.com/e0XzbRdNjo9N9bCg0LrJD1J9H9IQ-PSARx-cHjSOGGBkZwaBYIR0751fGoTXhYZokcBprg=w200-h300-rw"
     }
+  ],
+  "Categories": [
+    {
+      "New": [
+        "0"
+      ]
+    },
+    {
+      "Sci-fy": [
+        "1"
+      ]
+    }
   ]
 }
