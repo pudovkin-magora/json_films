@@ -1,5 +1,5 @@
 {
-  "Films": [
+  "films": [
     {
       "id": "0",
       "Title": "Avengers Endgame",
@@ -108,7 +108,7 @@
       "Image": "https://lh3.googleusercontent.com/e0XzbRdNjo9N9bCg0LrJD1J9H9IQ-PSARx-cHjSOGGBkZwaBYIR0751fGoTXhYZokcBprg=w200-h300-rw"
     }
   ],
-  "Categories": [
+  "categories": [
     {
       "New": [
         "0"
