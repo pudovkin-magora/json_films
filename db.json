@@ -175,33 +175,38 @@
   ],
   "categories": [
     {
-      "New": [
+      "Name": "New",
+      "Films": [
         "0",
         "1",
         "3"
       ]
     },
     {
-      "Best selling": [
+      "Name": "Best selling",
+      "Films": [
         "2",
         "1"
       ]
     },
     {
-      "Recommended": [
+      "Name": "Recommended",
+      "Films": [
         "2",
         "3"
       ]
     },
     {
-      "Sci-fy": [
+      "Name": "Sci-fy",
+      "Films": [
         "2",
         "3",
         "0"
       ]
     },
     {
-      "What do you want to watch?": [
+      "Name": "What do you want to watch?",
+      "Films": [
         "0",
         "1",
         "2",
