@@ -106,17 +106,98 @@
       "Genre": "Sci-fi & fantasy",
       "Age rating": "16",
       "Image": "https://lh3.googleusercontent.com/e0XzbRdNjo9N9bCg0LrJD1J9H9IQ-PSARx-cHjSOGGBkZwaBYIR0751fGoTXhYZokcBprg=w200-h300-rw"
+    },
+    {
+      "id": "2",
+      "Title": "John Wick",
+      "Year": "2019",
+      "Length": "125",
+      "Rating": "4.0",
+      "Plot": "Суперкиллер Джон Уик после нарушения кодекса тайной гильдии ассасинов получает статус изгоя - экскомьюникадо. За его голову назначена цена в 14 миллионов долларов, и армия самых жестоких профессиональных убийц со всего мира открывает на него кровавую охоту.",
+      "Actors": [
+        "Keanu Reeves",
+        "Halle Berry",
+        "Ian McShane",
+        "Laurence Fishburne",
+        "Mark Dacascos"
+      ],
+      "Director": [
+        "Chad Stahelski"
+      ],
+      "Producers": [
+        "Derek Kolstad"
+      ],
+      "Authors": [
+        "Derek Kolstad ",
+        "Shay Hatten "
+      ],
+      "Rent price": "3.99",
+      "Buy price": "5.99",
+      "Genre": "Action",
+      "Age rating": "18",
+      "Image": "https://lh3.googleusercontent.com/Rdns80ok-0jBwzMDcDFNa-b-j2BcUq9YrGxMrlZYvAJJGIqDWKUNEuEM0hsk0y9x2ux16oKqvRjBsAa5Tw=w200-h300-rw"
+    },
+    {
+      "id": "3",
+      "Title": "Men in Black: International",
+      "Year": "2019",
+      "Length": "116",
+      "Rating": "3.2",
+      "Plot": "Люди в черном, тайная организация на страже покоя и безопасности Земли, уже не раз защищали нас от нападения отбросов Вселенной. На этот раз самая большая опасность для мирового сообщества, которой агентам предстоит противостоять — шпион в их рядах.",
+      "Actors": [
+        "Chris Hemsworth",
+        "Emma Thompson",
+        "Kumail Nanjiani",
+        "Larry Bourgeois",
+        "Laurent Bourgeois",
+        ",Liam Neeson",
+        ",Rafe Spall",
+        "Rebecca Ferguson,",
+        ",Tessa Thompson"
+      ],
+      "Director": [
+        "F. Gary Gray"
+      ],
+      "Producers": [
+        "Laurie MacDonald",
+        "Walter Parkes"
+      ],
+      "Authors": [
+        "Art Marcum",
+        "Matt Holloway"
+      ],
+      "Rent price": "2.99",
+      "Buy price": "4.99",
+      "Genre": "Action & Adventure",
+      "Age rating": "14",
+      "Image": "https://lh3.googleusercontent.com/ysqwsG9b3baPrO06SD9RIuMffBdyTVG_dRjGX9lnjzW2OROWjwvov1_R0EZ4OmsdCavF=w200-h300-rw"
     }
   ],
   "categories": [
     {
       "New": [
-        "0"
+        "0",
+        "1",
+        "3"
+      ]
+    },
+    {
+      "Best selling": [
+        "2",
+        "1"
+      ]
+    },
+    {
+      "Recommended": [
+        "2",
+        "3"
       ]
     },
     {
       "Sci-fy": [
-        "1"
+        "2",
+        "3",
+        "0"
       ]
     }
   ]
