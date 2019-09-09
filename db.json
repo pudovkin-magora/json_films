@@ -36,37 +36,6 @@
     },
     {
       "id": "1",
-      "Title": "Avatar",
-      "Year": "2009",
-      "Length": "162",
-      "Rating": "4.4",
-      "Plot": "ВОЗВРАЩЕНИЕ НА ПАНДОРУ. Герой по принуждению. Невероятное путешествие. Сложный выбор: бросить всё, что было до этого в жизни и научиться звать Родиной новый, невероятный мир. Возвращение на Пандору. АВАТАР - величайшее приключение.",
-      "Actors": [
-        "Sam Worthington",
-        "Zoe Saldana",
-        "Stephen Lang",
-        "Michelle Rodriguez",
-        "Sigourney Weaver",
-        "Sonia Yee"
-      ],
-      "Director": [
-        "James Cameron"
-      ],
-      "Producers": [
-        "James Cameron"
-      ],
-      "Authors": [
-        "James Cameron"
-      ],
-      "Rent price": "3.99",
-      "Buy price": "5.99",
-      "Genre": "Sci-fi & fantasy",
-      "Age rating": "16",
-      "Image": "https://lh3.googleusercontent.com/e0XzbRdNjo9N9bCg0LrJD1J9H9IQ-PSARx-cHjSOGGBkZwaBYIR0751fGoTXhYZokcBprg=w200-h300-rw",
-      "TrailerID": "6ziBFh3V1aM"
-    },
-    {
-      "id": "2",
       "Title": "Men in Black: International",
       "Year": "2019",
       "Length": "116",
@@ -97,7 +66,7 @@
       "TrailerID": "BV-WEb2oxLk"
     },
     {
-      "id": "3",
+      "id": "2",
       "Title": "Inception",
       "Year": "2010",
       "Length": "148",
@@ -127,7 +96,7 @@
       "TrailerID": "YoHD9XEInc0"
     },
     {
-      "id": "4",
+      "id": "3",
       "Title": "The Lord of the Rings: The Fellowship of the Ring",
       "Year": "2001",
       "Length": "178",
@@ -160,7 +129,7 @@
       "TrailerID": "V75dMMIW2B4"
     },
     {
-      "id": "5",
+      "id": "4",
       "Title": "The Lord of the Rings: The Fellowship of the Ring",
       "Year": "2002",
       "Length": "235",
@@ -191,7 +160,7 @@
       "TrailerID": "LbfMDwc4azU"
     },
     {
-      "id": "6",
+      "id": "5",
       "Title": "The Lord of the Rings: The Return of the King",
       "Year": "2003",
       "Length": "191",
@@ -222,7 +191,7 @@
       "TrailerID": "r5X-hFf6Bwo"
     },
     {
-      "id": "7",
+      "id": "6",
       "Title": "Star Wars: Episode V - The Empire Strikes Back",
       "Year": "1980",
       "Length": "124",
@@ -256,7 +225,7 @@
       "TrailerID": "JNwNXF9Y6kY"
     },
     {
-      "id": "8",
+      "id": "7",
       "Title": "Star Wars: Episode VI - Return Of The Jedi",
       "Year": "1983",
       "Length": "131",
@@ -301,8 +270,7 @@
         "4",
         "5",
         "6",
-        "7",
-        "8"
+        "7"
       ]
     },
     {
@@ -321,7 +289,7 @@
         "3",
         "6",
         "7",
-        "8"
+        "5"
       ]
     },
     {
@@ -330,7 +298,7 @@
         "2",
         "3",
         "0",
-        "8"
+        "7"
       ]
     },
     {
@@ -343,8 +311,7 @@
         "4",
         "5",
         "6",
-        "7",
-        "8"
+        "7"
       ]
     }
   ]
