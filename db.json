@@ -175,6 +175,232 @@
       "Age rating": "14",
       "Image": "https://lh3.googleusercontent.com/ysqwsG9b3baPrO06SD9RIuMffBdyTVG_dRjGX9lnjzW2OROWjwvov1_R0EZ4OmsdCavF=w200-h300-rw",
       "TrailerID": "BV-WEb2oxLk"
+    },
+    {
+      "id": "4",
+      "Title": "Inception",
+      "Year": "2010",
+      "Length": "148",
+      "Rating": "4.7",
+      "Plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+      "Actors": [
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt",
+        "Ellen Page",
+        "Tom Hardy",
+        "Ken Watanabe",
+        "Dileep Rao",
+        "Cillian Murphy",
+        "Tom Berenger",
+        "Marion Cotillard"
+      ],
+      "Director": [
+        "Christopher Nolan"
+      ],
+      "Producers": [
+        "Christopher Nolan"
+      ],
+      "Authors": [
+        "Christopher Nolan"
+      ],
+      "Rent price": "2.99",
+      "Buy price": "4.99",
+      "Genre": "Action & Adventure",
+      "Age rating": "14",
+      "Image": "https://lh3.googleusercontent.com/P4haApNWmGi51kOw5H1W9Yn-i8x7PO-oNKTtPORAAxCQxEU5ZDy1pOYlcfHT1uttYbWb=w200-h300-rw",
+      "TrailerID": "YoHD9XEInc0"
+    },
+    {
+      "id": "5",
+      "Title": "The Lord of the Rings: The Fellowship of the Ring",
+      "Year": "2001",
+      "Length": "178",
+      "Rating": "4.7",
+      "Plot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+      "Actors": [
+        "Alan Howard",
+        "Sean Astin",
+        "Sean Bean",
+        "Cate Blanchett",
+        "Orlando Bloom",
+        "Billy Boyd",
+        "Ian Holm",
+        "Christopher Lee",
+        "Andy Serkis",
+        "Ian McKellen",
+        "Viggo Mortensen",
+        "John Rhys-Davies",
+        "Elijah Wood",
+        "Hugo Weaving"
+      ],
+      "Director": [
+        "Peter Jackson"
+      ],
+      "Producers": [
+        "Peter Jackson"
+      ],
+      "Authors": [
+        " J.R.R. Tolkien (novel)",
+        "Fran Walsh"
+      ],
+      "Rent price": "2.99",
+      "Buy price": "4.99",
+      "Genre": "Adventure, Drama, Fantasy",
+      "Age rating": "14",
+      "Image": "https://lh3.googleusercontent.com/jnOhTFsgq3orYVXjSNDgKFZSg6d_NRaedl0gnqwf65zcE_4pCMX3ND93bRh2dd6-dq4s=w200-h300-rw",
+      "TrailerID": "V75dMMIW2B4"
+    },
+    {
+      "id": "6",
+      "Title": "The Lord of the Rings: The Fellowship of the Ring",
+      "Year": "2002",
+      "Length": "235",
+      "Rating": "4.8",
+      "Plot": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+      "Actors": [
+        "Alan Howard",
+        "Sean Astin",
+        "Sean Bean",
+        "Cate Blanchett",
+        "Orlando Bloom",
+        "Billy Boyd",
+        "Ian Holm",
+        "Christopher Lee",
+        "Andy Serkis",
+        "Ian McKellen",
+        "Viggo Mortensen",
+        "John Rhys-Davies",
+        "Elijah Wood",
+        "Hugo Weaving"
+      ],
+      "Director": [
+        "Peter Jackson"
+      ],
+      "Producers": [
+        "Peter Jackson"
+      ],
+      "Authors": [
+        " J.R.R. Tolkien (novel)",
+        "Fran Walsh"
+      ],
+      "Rent price": "2.99",
+      "Buy price": "4.99",
+      "Genre": "Adventure, Drama, Fantasy",
+      "Age rating": "14",
+      "Image": "https://lh3.googleusercontent.com/bZN5wja1xg3EEXqhcHr0_ys1KsuRGiSxkgvKtRDKdX88SN-1CGfLOU1jMNNI3R0adQlO=w200-h300-rw",
+      "TrailerID": "LbfMDwc4azU"
+    },
+    {
+      "id": "7",
+      "Title": "The Lord of the Rings: The Return of the King",
+      "Year": "2003",
+      "Length": "191",
+      "Rating": "4.7",
+      "Plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+      "Actors": [
+        "Alan Howard",
+        "Sean Astin",
+        "Sean Bean",
+        "Cate Blanchett",
+        "Orlando Bloom",
+        "Billy Boyd",
+        "Ian Holm",
+        "Christopher Lee",
+        "Andy Serkis",
+        "Ian McKellen",
+        "Viggo Mortensen",
+        "John Rhys-Davies",
+        "Elijah Wood",
+        "Hugo Weaving"
+      ],
+      "Director": [
+        "Peter Jackson"
+      ],
+      "Producers": [
+        "Peter Jackson"
+      ],
+      "Authors": [
+        " J.R.R. Tolkien (novel)",
+        "Fran Walsh"
+      ],
+      "Rent price": "2.99",
+      "Buy price": "4.99",
+      "Genre": "Adventure, Drama, Fantasy",
+      "Age rating": "14",
+      "Image": "https://lh3.googleusercontent.com/vBEsCCLw6eWlJk1bnTU0kCLShHyDkzCeL0w0l6owgMEeNwfj-jzRcWc5jW1JAhBAFQI=w200-h300-rw",
+      "TrailerID": "r5X-hFf6Bwo"
+    },
+    {
+      "id": "8",
+      "Title": "Star Wars: Episode V - The Empire Strikes Back",
+      "Year": "1980",
+      "Length": "124",
+      "Rating": "4.7",
+      "Plot": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader.",
+      "Actors": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher",
+        "Billy Dee Williams",
+        "Anthony Daniels",
+        "David Prowse",
+        "Peter Mayhew",
+        "Kenny Baker",
+        "Frank Oz"
+      ],
+      "Director": [
+        "Irvin Kershner"
+      ],
+      "Producers": [
+        "George Lucas"
+      ],
+      "Authors": [
+        "Leigh Brackett ",
+        "Lawrence Kasdan",
+        "George Lucas"
+      ],
+      "Rent price": "2.99",
+      "Buy price": "4.99",
+      "Genre": "Action, Adventure, Fantasy",
+      "Age rating": "14",
+      "Image": "https://lh3.googleusercontent.com/QB5Zk2WPYFDbVcMUBmOSI78FDqQLztLFMUaLSFpzelXwDJLUIY6nh26uKnnWZK3t3uaivw=w200-h300-rw",
+      "TrailerID": "JNwNXF9Y6kY"
+    },
+    {
+      "id": "9",
+      "Title": "Star Wars: Episode VI - Return Of The Jedi",
+      "Year": "1983",
+      "Length": "131",
+      "Rating": "4.8",
+      "Plot": "After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's trap.",
+      "Actors": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher",
+        "Billy Dee Williams",
+        "Anthony Daniels",
+        "David Prowse",
+        "Peter Mayhew",
+        "Kenny Baker",
+        "Frank Oz"
+      ],
+      "Director": [
+        "Irvin Kershner"
+      ],
+      "Producers": [
+        "George Lucas"
+      ],
+      "Authors": [
+        "Leigh Brackett ",
+        "Lawrence Kasdan",
+        "George Lucas"
+      ],
+      "Rent price": "2.99",
+      "Buy price": "4.99",
+      "Genre": "Action, Adventure, Fantasy",
+      "Age rating": "14",
+      "Image": "https://lh3.googleusercontent.com/gqExxGWD6-QiEKRl9OspZJzfEaWH2wa-_3K4IT0fRWEtqeOSQcZn4ODWwDjKHFkrDFTb=w200-h300-rw",
+      "TrailerID": "5UfA_aKBGMc"
     }
   ],
   "categories": [
@@ -184,21 +410,28 @@
         "0",
         "1",
         "3",
-        "2"
+        "5",
+        "4",
+        "8"
       ]
     },
     {
       "Name": "Best selling",
       "Films": [
         "2",
-        "1"
+        "1",
+        "4",
+        "5"
       ]
     },
     {
       "Name": "Recommended",
       "Films": [
         "2",
-        "3"
+        "3",
+        "6",
+        "7",
+        "8"
       ]
     },
     {
@@ -206,7 +439,9 @@
       "Films": [
         "2",
         "3",
-        "0"
+        "0",
+        "8",
+        "9"
       ]
     },
     {
@@ -215,7 +450,13 @@
         "0",
         "1",
         "2",
-        "3"
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ]
     }
   ]
