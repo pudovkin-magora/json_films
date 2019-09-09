@@ -6,58 +6,14 @@
       "Year": "2019",
       "Length": "181",
       "Rating": "4.4",
-      "Plot": "MARVEL представляет самый ожидаемый фильм киновселенной: завершение эпической саги об известнейших супергероях в мире! Оставшиеся в живых члены команды Мстителей и их союзники должны разработать новый план, который поможет противостоять разрушительным действиям могущественного титана Таноса. После наиболее масштабной и трагической битвы в истории они не могут допустить ошибку.",
+      "Plot": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
       "Actors": [
         "Robert Downey Jr.",
         "Chris Evans",
         "Mark Ruffalo",
         "Chris Hemsworth",
         "Scarlett Johansson",
-        "Jeremy Renner",
-        "Don Cheadle",
-        "Paul Rudd",
-        "Benedict Cumberbatch",
-        "Chadwick Boseman",
-        "Brie Larson",
-        "Tom Holland",
-        "Karen Gillan",
-        "Zoe Saldana",
-        "Evangeline Lilly",
-        "Tessa Thompson",
-        "Rene Russo",
-        "Elizabeth Olsen",
-        "Anthony Mackie",
-        "Sebastian Stan",
-        "Tom Hiddleston",
-        "Danai Gurira",
-        "Benedict Wong",
-        "Pom Klementieff",
-        "Dave Bautista",
-        "Letitia Wright",
-        "John Slattery",
-        "Tilda Swinton",
-        "Jon Favreau",
-        "Hayley Atwell",
-        "Natalie Portman",
-        "Marisa Tomei",
-        "Taika Waititi",
-        "Angela Bassett",
-        "Michael Douglas",
-        "Michelle Pfeiffer",
-        "William Hurt",
-        "Cobie Smulders",
-        "Sean Gunn",
-        "Winston Duke",
-        "Linda Cardellini",
-        "Maximiliano Hernandez",
-        "Hiroyuki Sanada",
-        "Tom Vaughan-Lawlor",
-        "James DArcy",
-        "Jacob Batalon",
-        "Vin Diesel",
-        "Bradley Cooper",
-        "Gwyneth Paltrow",
-        " Robert Redford"
+        "Jeremy Renner"
       ],
       "Director": [
         "Anthony Russo",
@@ -111,37 +67,6 @@
     },
     {
       "id": "2",
-      "Title": "John Wick",
-      "Year": "2019",
-      "Length": "125",
-      "Rating": "4.0",
-      "Plot": "Суперкиллер Джон Уик после нарушения кодекса тайной гильдии ассасинов получает статус изгоя - экскомьюникадо. За его голову назначена цена в 14 миллионов долларов, и армия самых жестоких профессиональных убийц со всего мира открывает на него кровавую охоту.",
-      "Actors": [
-        "Keanu Reeves",
-        "Halle Berry",
-        "Ian McShane",
-        "Laurence Fishburne",
-        "Mark Dacascos"
-      ],
-      "Director": [
-        "Chad Stahelski"
-      ],
-      "Producers": [
-        "Derek Kolstad"
-      ],
-      "Authors": [
-        "Derek Kolstad ",
-        "Shay Hatten "
-      ],
-      "Rent price": "3.99",
-      "Buy price": "5.99",
-      "Genre": "Action",
-      "Age rating": "18",
-      "Image": "https://lh3.googleusercontent.com/Rdns80ok-0jBwzMDcDFNa-b-j2BcUq9YrGxMrlZYvAJJGIqDWKUNEuEM0hsk0y9x2ux16oKqvRjBsAa5Tw=w200-h300-rw",
-      "TrailerID": "M7XM597XO94"
-    },
-    {
-      "id": "3",
       "Title": "Men in Black: International",
       "Year": "2019",
       "Length": "116",
@@ -151,12 +76,7 @@
         "Chris Hemsworth",
         "Emma Thompson",
         "Kumail Nanjiani",
-        "Larry Bourgeois",
-        "Laurent Bourgeois",
-        ",Liam Neeson",
-        ",Rafe Spall",
-        "Rebecca Ferguson,",
-        ",Tessa Thompson"
+        "Larry Bourgeois"
       ],
       "Director": [
         "F. Gary Gray"
@@ -177,7 +97,7 @@
       "TrailerID": "BV-WEb2oxLk"
     },
     {
-      "id": "4",
+      "id": "3",
       "Title": "Inception",
       "Year": "2010",
       "Length": "148",
@@ -188,11 +108,7 @@
         "Joseph Gordon-Levitt",
         "Ellen Page",
         "Tom Hardy",
-        "Ken Watanabe",
-        "Dileep Rao",
-        "Cillian Murphy",
-        "Tom Berenger",
-        "Marion Cotillard"
+        "Ken Watanabe"
       ],
       "Director": [
         "Christopher Nolan"
@@ -211,7 +127,7 @@
       "TrailerID": "YoHD9XEInc0"
     },
     {
-      "id": "5",
+      "id": "4",
       "Title": "The Lord of the Rings: The Fellowship of the Ring",
       "Year": "2001",
       "Length": "178",
@@ -224,14 +140,7 @@
         "Cate Blanchett",
         "Orlando Bloom",
         "Billy Boyd",
-        "Ian Holm",
-        "Christopher Lee",
-        "Andy Serkis",
-        "Ian McKellen",
-        "Viggo Mortensen",
-        "John Rhys-Davies",
-        "Elijah Wood",
-        "Hugo Weaving"
+        "Ian Holm"
       ],
       "Director": [
         "Peter Jackson"
@@ -251,7 +160,7 @@
       "TrailerID": "V75dMMIW2B4"
     },
     {
-      "id": "6",
+      "id": "5",
       "Title": "The Lord of the Rings: The Fellowship of the Ring",
       "Year": "2002",
       "Length": "235",
@@ -262,16 +171,7 @@
         "Sean Astin",
         "Sean Bean",
         "Cate Blanchett",
-        "Orlando Bloom",
-        "Billy Boyd",
-        "Ian Holm",
-        "Christopher Lee",
-        "Andy Serkis",
-        "Ian McKellen",
-        "Viggo Mortensen",
-        "John Rhys-Davies",
-        "Elijah Wood",
-        "Hugo Weaving"
+        "Orlando Bloom"
       ],
       "Director": [
         "Peter Jackson"
@@ -291,7 +191,7 @@
       "TrailerID": "LbfMDwc4azU"
     },
     {
-      "id": "7",
+      "id": "6",
       "Title": "The Lord of the Rings: The Return of the King",
       "Year": "2003",
       "Length": "191",
@@ -302,16 +202,7 @@
         "Sean Astin",
         "Sean Bean",
         "Cate Blanchett",
-        "Orlando Bloom",
-        "Billy Boyd",
-        "Ian Holm",
-        "Christopher Lee",
-        "Andy Serkis",
-        "Ian McKellen",
-        "Viggo Mortensen",
-        "John Rhys-Davies",
-        "Elijah Wood",
-        "Hugo Weaving"
+        "Orlando Bloom"
       ],
       "Director": [
         "Peter Jackson"
@@ -331,7 +222,7 @@
       "TrailerID": "r5X-hFf6Bwo"
     },
     {
-      "id": "8",
+      "id": "7",
       "Title": "Star Wars: Episode V - The Empire Strikes Back",
       "Year": "1980",
       "Length": "124",
@@ -344,9 +235,7 @@
         "Billy Dee Williams",
         "Anthony Daniels",
         "David Prowse",
-        "Peter Mayhew",
-        "Kenny Baker",
-        "Frank Oz"
+        "Peter Mayhew"
       ],
       "Director": [
         "Irvin Kershner"
@@ -367,7 +256,7 @@
       "TrailerID": "JNwNXF9Y6kY"
     },
     {
-      "id": "9",
+      "id": "8",
       "Title": "Star Wars: Episode VI - Return Of The Jedi",
       "Year": "1983",
       "Length": "131",
@@ -380,9 +269,7 @@
         "Billy Dee Williams",
         "Anthony Daniels",
         "David Prowse",
-        "Peter Mayhew",
-        "Kenny Baker",
-        "Frank Oz"
+        "Peter Mayhew"
       ],
       "Director": [
         "Irvin Kershner"
